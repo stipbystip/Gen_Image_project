@@ -1,0 +1,13 @@
+deep_translator==1.11.4
+diffusers==0.33.1
+natasha==1.6.0
+numpy==2.2.5
+Pillow==11.2.1
+safetensors==0.5.3
+spacy==3.8.5
+torch==2.7.0+cu118
+tqdm==4.67.1
+transformers==4.51.3
+pillow==11.2.1
+safetensors==0.5.3
+accelerate==1.6.0
